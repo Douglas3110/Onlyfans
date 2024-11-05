@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exclusive Moments</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            margin: 0;
+            background-color: #f0f0f0;
+        }
+        .container {
+            max-width: 800px;
+            padding: 20px;
+            background-color: #fff;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            margin-top: 20px;
+        }
+        .image-block {
+            margin: 20px 0;
+            text-align: center;
+        }
+        .image-block img {
+            width: 100%;
+            max-width: 400px;
+            height: auto;
+            border-radius: 10px;
+        }
+        .image-block p {
+            font-size: 18px;
+            color: #333;
+        }
+        .button {
+            display: inline-block;
+            padding: 10px 20px;
+            margin: 20px 0;
+            font-size: 18px;
+            color: #fff;
+            background-color: #007BFF;
+            text-decoration: none;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <!-- Image Block 1 -->
+        <div class="image-block">
+            <img src="https://drive.google.com/uc?export=view&id=1-aeph5_xCNCuPPhavhUBYhI8T1GYOsr" alt="Exclusive Content">
+            <p>Discover My Exclusive Side</p>
+        </div>
+
+        <!-- Image Block 2 -->
+        <div class="image-block">
+            <img src="https://drive.google.com/uc?export=view&id=1-ZpOKmhR1i2BR_L18qV3Co6zaElDoach" alt="Special Moments">
+            <p>Unlock Special Moments Just For You</p>
+        </div>
+
+        <!-- Image Block 3 -->
+        <div class="image-block">
+            <img src="https://drive.google.com/uc?export=view&id=1-WKmJvbE1MDiYVchacUYU8fF6NeFIcDe" alt="Join Now">
+            <p>Join Now for Unique Content</p>
+        </div>
+
+        <!-- Image Block 4 -->
+        <div class="image-block">
+            <img src="https://drive.google.com/uc?export=view&id=1-Xr7Sse9y_4ZqYfNkUA_a7_JN8Wa0EIun" alt="Don't Miss Out">
+            <p>Don’t Miss Out on My Best Content</p>
+        </div>
+
+        <!-- Image Block 5 -->
+        <div class="image-block">
+            <img src="https://drive.google.com/uc?export=view&id=1-3xYL6v8Jz0Q5FUG07cn6NL6oi8usprQ" alt="Get Closer">
+            <p>Get Closer to My Private Moments</p>
+        </div>
+
+        <!-- Image Block 6 -->
+        <div class="image-block">
+            <img src="https://drive.google.com/uc?export=view&id=1-CzVJEKpZuUwquMYbZ_VFqaNhPkFSKR" alt="Intimate Experiences">
+            <p>Explore Intimate Experiences Here</p>
+        </div>
+
+        <!-- Image Block 7 -->
+        <div class="image-block">
+            <img src="https://drive.google.com/uc?export=view&id=1-EUcZtCZjFkiVkrikIymRrFAY2Uqw4MN3" alt="Exclusive World">
+           
